@@ -21,5 +21,14 @@
     <ClCompile Include="02 sizeof关键字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03 实型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04 字符型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05 转义字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

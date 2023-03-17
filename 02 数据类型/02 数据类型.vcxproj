@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="01 整型.cpp" />
     <ClCompile Include="02 sizeof关键字.cpp" />
+    <ClCompile Include="04 字符型.cpp" />
+    <ClCompile Include="03 实型.cpp" />
+    <ClCompile Include="05 转义字符.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
